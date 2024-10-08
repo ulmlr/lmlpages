@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The Unofficial
+        LML Repository
       image:
         filename: welcome.jpg
       text: |

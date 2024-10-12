@@ -12,6 +12,7 @@ sections:
         LML Repository
       image:
         filename: TheOpenSourceClub.svg
+        width: 50%
       text: |
         <br>
         

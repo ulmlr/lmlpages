@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Unofficial LML Repository** offers students of our school community a unique opportunity to delve into the world of digital content creation and management. 
+        The **Unofficial LML Repository** offers students of our school community a platform to delve into the world of open-source digital content creation and management.
   
   - block: collection
     content:

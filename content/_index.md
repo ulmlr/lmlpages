@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Unofficial LML Repository** offers students of our school community a unique opportunity to delve into the world of digital content creation and management. 
   
   - block: collection
     content:

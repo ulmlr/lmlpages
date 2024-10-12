@@ -11,7 +11,7 @@ sections:
         The Unofficial
         LML Repository
       image:
-        filename: welcome.jpg
+        filename: TheOpenSourceClub.svg
       text: |
         <br>
         

@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Welcome to the group
         content: Take a look at what we're working on...
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: harbour.webp
             filters:
               brightness: 0.7
           position: right

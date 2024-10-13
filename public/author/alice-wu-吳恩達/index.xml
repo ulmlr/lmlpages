@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alice Wu 吳恩達 | The Unofficial LML Repository</title>
+    <link>https://ulmlr.github.io/lmlpages/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="https://ulmlr.github.io/lmlpages/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alice Wu 吳恩達</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ulmlr.github.io/lmlpages/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alice Wu 吳恩達</title>
+      <link>https://ulmlr.github.io/lmlpages/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</link>
+    </image>
+    
+  </channel>
+</rss>

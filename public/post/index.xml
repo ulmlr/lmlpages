@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | The Unofficial LML Repository</title>
+    <link>https://ulmlr.github.io/lmlpages/post/</link>
+      <atom:link href="https://ulmlr.github.io/lmlpages/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ulmlr.github.io/lmlpages/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://ulmlr.github.io/lmlpages/post/</link>
+    </image>
+    
+    <item>
+      <title>The Open Source Club is here!</title>
+      <link>https://ulmlr.github.io/lmlpages/post/2024-10-13-creation-osc/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ulmlr.github.io/lmlpages/post/2024-10-13-creation-osc/</guid>
+      <description>&lt;p&gt;Together with a group of our student community, we set up the Open Source Club.&lt;/p&gt;
+&lt;p&gt;Welcome to our school’s website! This platform is proudly coded and maintained by a dedicated group of students. Our mission is to share the knowledge, skills, and passion of our school community with the world.&lt;/p&gt;
+&lt;p&gt;If you have a project that you would like to showcase, please reach out to our team. We are committed to helping you gain the visibility you deserve and will do our best to support your efforts.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

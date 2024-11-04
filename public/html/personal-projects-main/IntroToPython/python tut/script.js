@@ -28,7 +28,7 @@ if (typeof current_theme != 'number'){
     current_theme = 1
 }
 
-console.log(current_theme)
+console.log(typeof current_theme)
 
 /* functions */
 /* sets all the links on the sidebar */

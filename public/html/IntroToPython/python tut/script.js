@@ -17,7 +17,7 @@ const sidebar = document.getElementById('sidebar')
 root.style.setProperty('--amount-of-files', String(files.length))
 
 try {
-    var current_theme = parseInt(localStorage.getItem('mode'))
+    var current_theme = parseInt(localStorage.getItem('mode')) * 1
 }
 catch{
     var current_theme = 1

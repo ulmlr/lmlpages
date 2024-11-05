@@ -15,10 +15,13 @@ const files = ["Installation_0.html", "Console_1.html", "Print_2.html", "Strings
 const sidebar = document.getElementById('sidebar')
 
 root.style.setProperty('--amount-of-files', String(files.length))
-var current_theme = 1
-if (var current_theme = parseInt(localStorage.getItem('mode')) == null) {
+
+if (localStorage.getItem('mode') == null) {
     var current_theme = 1
     localStorage.setItem('mode', String(current_theme))
+}
+else {
+  var current_theme = parseInt(localStorage.getItem('mode'))
 }
 
 console.log(current_theme)

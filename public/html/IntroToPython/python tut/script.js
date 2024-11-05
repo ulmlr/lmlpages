@@ -21,7 +21,7 @@ if (localStorage.getItem('mode') == null) {
     localStorage.setItem('mode', String(current_theme))
 }
 else {
-  var current_theme = parseInt(localStorage.getItem('mode'))
+    var current_theme = parseInt(localStorage.getItem('mode'))
 }
 
 console.log(current_theme)

@@ -21,4 +21,19 @@ But if you are searching for a lower kids level I would recommend paralell.[clic
 [parallel](https://parallel.org.uk/) is basicly like khan academy it teaches you loads of math, but whats speical about this website is that the videos they show are in [youtube](https://www.youtube.com/)  wich you can save, and whenever you need for reviewing you can go back to those videos again.
 
 ![image](https://github.com/user-attachments/assets/2363f849-540c-49a1-ae3b-6778c8ac1860)
+---
+## year 1-6 needs for math
 
+**Grade 1 (Age 6–7):**
+
+Addition and Subtraction: Focus on numbers up to 20, using objects or drawings to visualize math problems.
+
+Place Value: Understanding the value of digits in numbers (e.g., 23 means 2 tens and 3 ones).
+
+Basic Word Problems: Solving simple real-world addition and subtraction problems.
+
+Shapes and Geometry: Identifying 2D and 3D shapes (squares, circles, rectangles, cubes, spheres, etc.).
+
+Measurement: Understanding and using non-standard units to measure length, weight, and volume.
+
+Time: Telling time to the hour and half-hour using analog clocks.

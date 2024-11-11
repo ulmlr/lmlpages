@@ -37,3 +37,39 @@ Shapes and Geometry: Identifying 2D and 3D shapes (squares, circles, rectangles,
 Measurement: Understanding and using non-standard units to measure length, weight, and volume.
 
 Time: Telling time to the hour and half-hour using analog clocks.
+
+**Year 2 (Ages 6-7)**
+
+Focus: Expanding on number skills and introducing more complex operations.
+
+Number and Place Value
+
+Recognizing and writing numbers up to 100.
+Understanding tens and ones in two-digit numbers.
+Counting in 2s, 5s, and 10s.
+Addition and Subtraction
+
+Adding and subtracting within 100, with an emphasis on mental math and using number lines.
+Solving word problems involving addition and subtraction.
+Introduction to addition and subtraction facts within 20.
+Multiplication and Division (Introduction)
+
+Introduction to multiplication as repeated addition (e.g., 3 + 3 + 3 = 9 → 3 × 3 = 9).
+Learning basic division as sharing (e.g., 12 ÷ 4 = 3).
+Understanding the concept of equal groups.
+Measurement
+
+Using standard units of measurement for length (cm, m), weight (g, kg), and capacity (ml, l).
+Telling time to the nearest 5 minutes on an analog clock.
+Introduction to money: using coins and notes to make amounts.
+Geometry
+
+Recognizing and describing properties of 2D shapes (e.g., sides, corners).
+Introduction to simple symmetry.
+Identifying 3D shapes and their properties (e.g., cubes, cylinders, pyramids).
+Data and Probability
+
+Sorting and classifying objects based on their properties.
+Collecting data and using tally charts.
+Reading simple bar graphs and pictograms.
+

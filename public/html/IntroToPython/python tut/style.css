@@ -17,8 +17,11 @@
 :root {
     --file-index: none;
     --amount-of-files: none;
+  
     --progress-start-pos: none;
     --progress-pos: calc(100% / var(--amount-of-files) * (var(--file-index)));
+
+    --text-margin: 6%;
 
     --light-main: #fff;
     --light-contrast: #000;
@@ -46,7 +49,7 @@ body {
 
 /*title*/
 #title {
-    margin: 60px;
+    margin: var(--text-margin);
     margin-bottom: 150px;
     position: relative;
     top: 25px;
@@ -99,19 +102,19 @@ body {
 
 /*main tags*/
 #main p {
-    margin: 60px;
+    margin: var(--text-margin);
 }
 
 #main ul, ol {
-    margin-left: 100px;
+    margin-left: calc(var(--text-margin) * 1.4);
 }
 
 #main h2, h3, h4 {
-    margin-left: 60px;
+    margin-left: var(--text-margin);
 }
 
 #main details {
-    margin: 60px;
+    margin: var(--text-margin);
 
     height: 20%;
     width: 50%;
@@ -135,13 +138,13 @@ body {
 
 #main details {
     color: var(--contrast-theme);
-    margin: 60px;
+    margin: var(--text-margin);
     height: 1%;
     transition: all var(--transition-time);
 }
 
 #main details[open] {
-    margin: 60px;
+    margin: var(--text-margin);
     height: 20%;
 }
 

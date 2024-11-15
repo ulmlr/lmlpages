@@ -11,7 +11,7 @@ const light = style.getPropertyValue('--light-main')
 const lightCONT = style.getPropertyValue('--light-contrast')
 const lightOUT = style.getPropertyValue('--light-outline')
 
-const files = ["Installation_0.html", "Console_1.html", "Print_2.html", "Data Types_3.html","Calculations_4.html", "Variables_5.html"]
+const files = ["Installation_0.html", "Shell_1.html", "Print_2.html", "Data Types_3.html","Calculations_4.html", "Variables_5.html"]
 const sidebar = document.getElementById('sidebar')
 
 root.style.setProperty('--amount-of-files', String(files.length))

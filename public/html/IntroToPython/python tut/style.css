@@ -24,6 +24,7 @@
     --text-margin: min(6%, 60px);
 
     --sidebar-width: min(22%, 400px);
+    --progress-bar-width: 4%;
 
     --light-main: #fff;
     --light-contrast: #000;
@@ -40,8 +41,18 @@
     --transition-time: none;
 }
 
+@media (orientation: portrait) {
+    :root {
+        --sidebar-width: 10px;
+        --progress-bar-width: 100%;
+    }
+}
+
 /*tags*/
 body {
+    width: 100%;
+    height: 100%;
+
     background-color: var(--main-theme);
     color: var(--contrast-theme);
     transition: all var(--transition-time);
@@ -88,22 +99,20 @@ body {
 /*main*/
 #main {
     position: fixed;
-    left: 0%;
+    right: 0%;
     top: 0%;
-    transform: translateX(var(--sidebar-width));
 
     overflow: auto;
 
     width: calc(100% - var(--sidebar-width));
     height: 100%;
-    margin-left: 6%;
-    margin-right: 6%;
 
     text-align: left;
     font-size: clamp(15px ,1.3vw, 20px);
     font-family: verdana, sans-serif;
     line-height: 200%;
 }
+
 
 /*main tags*/
 #main p {
@@ -159,7 +168,7 @@ body {
 #main video, img {
     border: 8px solid var(--outline-theme);
     border-radius: 2%;
-    width: 50%;
+    width: min(50%, 735px);
     position: relative;
     left: 50%;
     transform: translateX(-50%);
@@ -237,6 +246,8 @@ body {
     font-size: clamp(15px ,1.6vw, 30px);
     font-family: sans-serif;
 
+    overflow: scroll;
+
     background-color: var(--outline-theme);
     transition: all var(--transition-time);
 }
@@ -270,6 +281,7 @@ body {
     background-color: var(--main-theme);
 }
 
+
 /*progress bar*/
 #progress {
     position: absolute;
@@ -277,7 +289,7 @@ body {
     left: 6%;
 
     height: 100%;
-    width: 4%;
+    width: var(--progress-bar-width);
 
     background-color: #fff;
 }
@@ -298,7 +310,7 @@ body {
 /*dark/light mode toggle*/
 .toggle {
     position: fixed;
-    right: 5%;
+    right: 2%;
     top: 2%;
 
     --width: 60px;

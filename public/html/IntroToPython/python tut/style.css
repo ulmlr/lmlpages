@@ -21,7 +21,9 @@
     --progress-start-pos: none;
     --progress-pos: calc(100% / var(--amount-of-files) * (var(--file-index)));
 
-    --text-margin: 6%;
+    --text-margin: min(6%, 60px);
+
+    --sidebar-width: min(22%, 400px);
 
     --light-main: #fff;
     --light-contrast: #000;
@@ -86,16 +88,19 @@ body {
 /*main*/
 #main {
     position: fixed;
-    left: 22%;
+    left: 0%;
     top: 0%;
+    transform: translateX(var(--sidebar-width));
 
     overflow: auto;
 
-    width: 78%;
+    width: calc(100% - var(--sidebar-width));
     height: 100%;
+    margin-left: 6%;
+    margin-right: 6%;
 
     text-align: left;
-    font-size: 1.3vw;
+    font-size: clamp(15px ,1.3vw, 20px);
     font-family: verdana, sans-serif;
     line-height: 200%;
 }
@@ -226,10 +231,10 @@ body {
     top: 0%;
     left: 0%;
 
-    width: 22%;
+    width: var(--sidebar-width);
     height: 100%;
 
-    font-size: 1.6vw;
+    font-size: clamp(15px ,1.6vw, 30px);
     font-family: sans-serif;
 
     background-color: var(--outline-theme);
@@ -293,7 +298,7 @@ body {
 /*dark/light mode toggle*/
 .toggle {
     position: fixed;
-    right: 3%;
+    right: 5%;
     top: 2%;
 
     --width: 60px;

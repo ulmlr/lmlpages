@@ -75,14 +75,12 @@ body {
 
 #start p {
     position: relative;
+    top: 60%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -150%);
 
     color: #fff;
     text-decoration: none;
-
-    white-space: nowrap;
-    overflow: hidden;
 }
 
 #title\ container:hover #start{

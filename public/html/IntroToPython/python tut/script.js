@@ -34,6 +34,12 @@ if (typeof current_theme != 'number'){
 }
 
 /* functions */
+
+function prepareMain() {
+    const main = document.getElementById('main')
+    main.innerHTML += "<div id='menuButton' onclick='openNav()'>hi</div>"
+}
+
 /* sets all the links on the sidebar */
 function setLinks() {
     for (var index = 0; index < files.length; index++) {
@@ -165,9 +171,38 @@ function copyText (pressedButton) {
     navigator.clipboard.writeText(text)
 }
 
+if (window.matchMedia("(orientation: portrait)").matches) {
+    var sidenavState = -1
+    console.log('hhshgfgghd')
+}
+else{
+    var sidenavState = 1
+}
+
+function changeSidenavState(menuIcon) {
+    if (sidenavState > 0) {
+        openNav()
+    }
+    else {
+        closeNav()
+    }
+
+    sidenavState *= -1
+}
+/* opens the sidenav */
+function openNav() {
+    root.style.setProperty('--sidebar-width', "min(22%, 400px)")
+  }
+  
+  /* closes the sidenav */
+  function closeNav() {
+    root.style.setProperty('--sidebar-width', "0")
+  }
+
 /* running the functions */
 
 setLinks()
+changeSidenavState(1)
 check_theme(false)
 getFileIndex()
 setProgressPosition()

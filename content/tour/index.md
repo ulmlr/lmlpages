@@ -29,7 +29,7 @@ sections:
           position: center
           color: '#555'  
       - title: réagis!
-        content: 'Learn to perform the first aid actions that save lives in case of cardiac arrest.'
+        content: '[Learn to perform the first aid actions](https://ulmlr.github.io/ulmlr/html/first-response.html#/) that save lives in case of cardiac arrest.'
         align: left
         background:
           image:

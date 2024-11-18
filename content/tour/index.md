@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: Python Tutorial
+        content: 'Learn to code in Python.'
+        align: left
+        background:
+          image:
+            filename: https://ulmlr.github.io/lmlpages/html/IntroToPython/images/python-logo.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'  
       - title: réagis!
         content: 'Learn to perform the first aid actions that save lives in case of cardiac arrest.'
         align: left

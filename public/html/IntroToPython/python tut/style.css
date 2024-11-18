@@ -348,11 +348,11 @@ body {
 #menuButton {
     position: sticky;
     top: 2%;
-    left: var(--sidebar-width) + 2%;
+    left: var(--sidebar-width) + 6%;
     z-index: 1;
 
-    height: 2%;
-    width: 2%;
+    height: 4%;
+    width: 4%;
 }
 
 #menuButton div {

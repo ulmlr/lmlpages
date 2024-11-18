@@ -346,6 +346,7 @@ body {
 }
 
 #menuButton {
+    position: fixed;
     top: 2%;
     left: var(--sidebar-width) + 2%;
     z-index: 1;

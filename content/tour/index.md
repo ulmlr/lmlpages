@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: https://ulmlr.github.io/lmlpages/html/IntroToPython/images/python-logo.png
+            filename: pexels-towfiqu-barbhuiya-3440682-14569658.webp
             filters:
               brightness: 0.7
           position: center

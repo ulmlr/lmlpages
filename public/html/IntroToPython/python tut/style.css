@@ -110,7 +110,7 @@ body {
     height: 100%;
 
     text-align: left;
-    font-size: clamp(15px ,1.3vw, 25px);
+    font-size: clamp(18px ,1.3vw, 25px);
     font-family: verdana, sans-serif;
     line-height: 200%;
 }

@@ -24,8 +24,6 @@ else {
     var current_theme = parseInt(localStorage.getItem('mode'))
 }
 
-console.log(current_theme)
-
 
 
 if (typeof current_theme != 'number'){
@@ -173,7 +171,6 @@ function copyText (pressedButton) {
 
 if (window.matchMedia("(orientation: portrait)").matches) {
     var sidenavState = -1
-    console.log('hhshgfgghd')
 }
 else{
     var sidenavState = 1

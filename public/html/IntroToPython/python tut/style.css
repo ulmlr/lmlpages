@@ -23,7 +23,7 @@
 
     --text-margin: min(6%, 60px);
 
-    --portrait: min(600px, 100%);
+    --portrait: 100%;
     --landscape: min(22%, 400px);
     --current-orientation: var(--landscape);
     --sidebar-width: var(--current-orientation);

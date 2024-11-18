@@ -349,8 +349,7 @@ body {
 #menuButton {
     position: sticky;
     top: 2%;
-
-    left: calc(var(--sidebar-width) + 5px);
+    left: 2%;
 
     z-index: 1;
 

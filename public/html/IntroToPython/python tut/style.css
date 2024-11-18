@@ -23,7 +23,7 @@
 
     --text-margin: min(6%, 60px);
 
-    --portrait: 100%;
+    --portrait: min(600px, 100%);
     --landscape: min(22%, 400px);
     --current-orientation: var(--landscape);
     --sidebar-width: var(--current-orientation);
@@ -243,6 +243,8 @@ body {
     top: 0%;
     left: 0%;
 
+    z-index: 1;
+
     width: var(--sidebar-width);
     height: 100%;
 
@@ -282,6 +284,12 @@ body {
 #sidebar .lessons:hover {
     border-right: solid 10px var(--contrast-theme);
     background-color: var(--main-theme);
+}
+
+@media (orientation: portrait) {
+    #sidebar {
+        font-size: clamp(25px ,2.5vw, 100px);
+    }
 }
 
 
@@ -353,8 +361,8 @@ body {
 
     z-index: 1;
 
-    height: 6%;
-    width: 8%;
+    height: clamp(20px, 6%, 30px);
+    width: clamp(25px, 8%, 35px);
 }
 
 #menuButton div {

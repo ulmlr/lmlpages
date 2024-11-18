@@ -14,4 +14,7 @@ Animation would be very easy if you haave the right tools and the rights ways of
   
 ![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
   
-            2. one of the most popular animations which is *anime*
+            2. one of the most popular animations which is anime: this would be one of the most difficult ones to master since it requirs many skills such as
+                                                                      
+
+            

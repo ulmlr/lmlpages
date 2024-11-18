@@ -12,8 +12,8 @@ Animation would be very easy if you haave the right tools and the rights ways of
                 - a ball dropping to the floor: this is the structure of a ball dropping to the floor and continuously
                                                   bouncing until it gradually goes out the canva or stops, this is also not an
                                                 easyn thing to master since you would need to be able to:
-                                       - draw shapes, and structure them differently according to which direction they are
-                                         turning or wheren to add shadow and highlight
+                                       -****draw shapes, and structure them differently according to which direction they are
+                                         turning or wheren to add shadow and highlight**
   
 ![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
   

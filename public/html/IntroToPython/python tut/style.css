@@ -23,7 +23,7 @@
 
     --text-margin: min(6%, 60px);
 
-    --portrait: min(600px, 100%);
+    --portrait: 100%;
     --landscape: min(22%, 400px);
     --current-orientation: var(--landscape);
     --sidebar-width: var(--current-orientation);
@@ -259,8 +259,8 @@ body {
 
 #sidebar a {
     display: block;
-    padding-top: 4%;
-    padding-bottom: 4%;
+    padding-top: clamp(5px, 4%, 20px);
+    padding-bottom: clamp(5px, 4%, 20px);
     padding-left: 18%;
 
     text-decoration: none;
@@ -288,7 +288,7 @@ body {
 
 @media (orientation: portrait) {
     #sidebar {
-        font-size: clamp(25px ,2.5vw, 100px);
+        font-size: clamp(25px ,3vw, 40px);
     }
 }
 

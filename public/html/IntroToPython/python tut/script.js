@@ -24,6 +24,8 @@ else {
     var current_theme = parseInt(localStorage.getItem('mode'))
 }
 
+console.log(current_theme)
+
 
 
 if (typeof current_theme != 'number'){
@@ -171,6 +173,7 @@ function copyText (pressedButton) {
 
 if (window.matchMedia("(orientation: portrait)").matches) {
     var sidenavState = -1
+    console.log('hhshgfgghd')
 }
 else{
     var sidenavState = 1
@@ -189,11 +192,13 @@ function changeSidenavState(menuIcon) {
 /* opens the sidenav */
 function openNav() {
     root.style.setProperty('--sidebar-width', root.style.getPropertyValue("--current-orientation"))
+    root.style.setProperty('--progress-bar-width', "min(3%, 15px)")
   }
   
   /* closes the sidenav */
   function closeNav() {
-    root.style.setProperty('--sidebar-width', "0")
+    root.style.setProperty('--sidebar-width', "15px")
+    root.style.setProperty('--progress-bar-width', "100%")
   }
 
 /* running the functions */

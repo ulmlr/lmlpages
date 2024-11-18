@@ -23,7 +23,9 @@
 
     --text-margin: min(6%, 60px);
 
-    --sidebar-width: min(22%, 400px);
+    --portrait: min(300px, 100%);
+    --landscape: min(22%, 400px);
+    --sidebar-width: var(--landscape);
     --progress-bar-width: 4%;
 
     --light-main: #fff;
@@ -41,6 +43,11 @@
     --transition-time: none;
 }
 
+@media (orientation: portrait) {
+    :root{
+        --sidebar-width: var(--portrait);
+    }   
+}
 
 
 /*tags*/

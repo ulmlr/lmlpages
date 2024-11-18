@@ -12,6 +12,5 @@ Animation would be very easy if you haave the right tools and the rights ways of
                 - a ball dropping to the floor:
   
 ![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
-
-  
+                this is the structure of a ball dropping to the floor and continuously bouncing until it gradually goes out the canva or stops.
   

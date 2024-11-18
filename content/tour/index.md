@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: pexels-towfiqu-barbhuiya-3440682-14569658.webp
+            filename: python-coding.png
             filters:
               brightness: 0.7
           position: center

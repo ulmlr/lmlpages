@@ -191,7 +191,7 @@ function changeSidenavState(menuIcon) {
 }
 /* opens the sidenav */
 function openNav() {
-    root.style.setProperty('--sidebar-width', "min(22%, 400px)")
+    root.style.setProperty('--sidebar-width', root.style.getPropertyValue("--current-orientation"))
   }
   
   /* closes the sidenav */

@@ -25,7 +25,8 @@
 
     --portrait: min(300px, 100%);
     --landscape: min(22%, 400px);
-    --sidebar-width: var(--landscape);
+    --current-orientation: var(--landscape);
+    --sidebar-width: var(--current-orientation);
     --progress-bar-width: 4%;
 
     --light-main: #fff;
@@ -45,7 +46,7 @@
 
 @media (orientation: portrait) {
     :root {
-        --sidebar-width: min(300px, 100%);
+        --current-orientation: var(--portrait);
     }   
 }
 

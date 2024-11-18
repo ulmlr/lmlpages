@@ -44,7 +44,7 @@
 }
 
 @media (orientation: portrait) {
-    :root{
+    :root {
         --sidebar-width: var(--portrait);
     }   
 }
@@ -315,6 +315,8 @@ body {
     right: 2%;
     top: 2%;
 
+    z-index: 1;
+
     --width: 60px;
     width: var(--width);
     --height: calc(var(--width) / 2.3);
@@ -344,9 +346,9 @@ body {
 }
 
 #menuButton {
-    top: 0;
-    left: var(--sidebar-width);
-    z-index: 10;
+    top: 2%;
+    left: var(--sidebar-width) + 2%;
+    z-index: 1;
 
     height: 2%;
     width: 2%;

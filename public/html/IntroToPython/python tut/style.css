@@ -45,8 +45,7 @@
 
 @media (orientation: portrait) {
     :root {
-        --sidebar-width: var(--portrait);
-        --progress-bar-width: 100%;
+        --sidebar-width: min(300px, 100%);
     }   
 }
 

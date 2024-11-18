@@ -19,10 +19,10 @@ Animation would be very easy if you haave the right tools and the rights ways of
   
             2. one of the most popular animations which is anime: this would be one of the most difficult ones to master since
                                                                       it requirs many skills such as
-                                                            - being able to angle it in the correct directions to be able to make it
-                                                              seem as ifm the camera is turning
-                                                            - being able to shade in the correct places and hightlight in the correct
-                                                              places
+                                                            - being able to angle it in the correct directions to be able to make
+                                                              it seem as ifm the camera is turning
+                                                            - being able to shade in the correct places and hightlight in the
+                                                              correct places
                                                             - being able to charcters
 
             

@@ -12,14 +12,15 @@ Animation would be very easy if you haave the right tools and the rights ways of
                 - a ball dropping to the floor: this is the structure of a ball dropping to the floor and continuously
                                                   bouncing until it gradually goes out the canva or stops, this is also not an easy
                                            thing to master since you would need to be able to:
-                                       - draw shapes, and structure them differently according to which direction theyy are turning or where
-                                         to add shadow and highlight
+                                       - draw shapes, and structure them differently according to which direction they are
+                                         turning or wheren to add shadow and highlight
   
 ![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
   
             2. one of the most popular animations which is anime: this would be one of the most difficult ones to master since
                                                                       it requirs many skills such as
-                                                            - being able to angle it in the correct directions to be able to make it seem as if the camera is turning
+                                                            - being able to angle it in the correct directions to be able to make it seem as if 
+                                                              the camera is turning
                                                             - being able to shade in the correct places and hightlight in the correct places
                                                             - being able to charcters
 

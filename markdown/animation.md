@@ -5,4 +5,8 @@ Animation would be very easy if you haave the right tools and the rights ways of
    **starters:**
 
 - being able to draw is one of the main points of animation
-  1. 
+
+     there are different types of drawers, and different styles but all of them include perspectives and shading in order to make it look more realistic smooth with the movements.
+
+            1.  there is a type of animation where you only move objects, for example
+                - a printer printing paper

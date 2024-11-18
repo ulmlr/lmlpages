@@ -11,7 +11,7 @@ Animation would be very easy if you haave the right tools and the rights ways of
             1.  there is a type of animation where you only move objects, for example
                 - a ball dropping to the floor:
   
-[alt teaxt](image.jpg)![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
+![image](https://github.com/user-attachments/assets/b9cc7423-4801-4253-8127-a5a8f277c265)
 
   
   

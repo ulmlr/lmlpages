@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Python Tutorial
-        content: 'Learn to code in Python.'
+        content: '[Learn to code](https://ulmlr.github.io/lmlpages/html/IntroToPython/start/) in Python.'
         align: left
         background:
           image:

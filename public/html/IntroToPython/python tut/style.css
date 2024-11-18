@@ -349,7 +349,9 @@ body {
 #menuButton {
     position: sticky;
     top: 2%;
-    left: calc(var(--sidebar-width) + 6%);
+
+    left: calc(var(--sidebar-width) + 5px);
+
     z-index: 1;
 
     height: 4%;

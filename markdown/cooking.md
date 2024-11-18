@@ -17,11 +17,20 @@ Around 4000 years ago, during Ancient Babylon, the oldest-known recipes to have 
 
   https://redhousespice.com/char-siu-chinese-bbq-pork/
 
-  short explanation, 
-  ingredients, 
-  summary of how to make
+  Char Siu, also known as Chinese BBQ Pork or Siu Mei, is a Cantonese dish made to enjoy it by itself but can be used in buns or in  noodle dishes and stir fries. It is a type of roasted pork with the name “Char Siu” meaning “fork roasted”, from the traditional  cooking method. 
 
-  - Apple Cake
+ Ingredients: 
+ -	Char Siu sauce
+ -	Oyster sauce
+ -	Light soy sauce
+ -	Chinese five-spice powder
+ -	Garlic and ginger
+
+ Where to find these:
+ -	Char Siu sauce, Chinese five-spice powder, oyster sauce – can be found in asian supermarkets such as Asia Market or WeMart
+
+
+ 1) Apple Cake
 
     ![image](https://github.com/user-attachments/assets/a67c294e-317e-480c-bd56-8b118dbe9f68)
 

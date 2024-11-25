@@ -111,7 +111,7 @@ body {
     height: 100%;
 
     text-align: left;
-    font-size: clamp(18px ,1.3vw, 25px);
+    font-size: clamp(22px ,1.3vw, 27px);
     font-family: verdana, sans-serif;
     line-height: 200%;
 }
@@ -259,8 +259,8 @@ body {
 
 #sidebar a {
     display: block;
-    padding-top: clamp(5px, 4%, 20px);
-    padding-bottom: clamp(5px, 4%, 20px);
+    padding-top: clamp(7px, 4%, 20px);
+    padding-bottom: clamp(7px, 4%, 20px);
     padding-left: 18%;
 
     text-decoration: none;

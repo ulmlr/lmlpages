@@ -1,3 +1,10 @@
+function prepareMain() {
+    var main = document.getElementById('main')
+    main.innerHTML += '<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>'
+}
+
+prepareMain()
+
 /* declarations */
 const root = document.querySelector(':root')
 const style = getComputedStyle(root)
@@ -34,11 +41,6 @@ if (typeof current_theme != 'number'){
 }
 
 /* functions */
-
-function prepareMain() {
-    const main = document.getElementById('main')
-    main.innerHTML += '<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>'
-}
 
 /* sets all the links on the sidebar */
 function setLinks() {

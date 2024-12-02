@@ -1,6 +1,15 @@
 function prepareMain() {
     var main = document.getElementById('main')
     main.innerHTML += '<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>'
+    main.innerHTML += '\
+    <div id="menuButton" onclick="changeSidenavState()">\
+        <div></div>\
+        <div></div>\
+        <div></div>\
+    </div>\
+    '
+    main.innerHTML += '<h1 id="title">Basic Introduction to Python</h1>'
+
 }
 
 prepareMain()

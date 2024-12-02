@@ -37,7 +37,7 @@ if (typeof current_theme != 'number'){
 
 function prepareMain() {
     const main = document.getElementById('main')
-    main.innerHTML += "<div id='menuButton' onclick='openNav()'>hi</div>"
+    main.innerHTML += '<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>'
 }
 
 /* sets all the links on the sidebar */

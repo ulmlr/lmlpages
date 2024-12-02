@@ -17,7 +17,7 @@ Around 4000 years ago, during Ancient Babylon, the oldest-known recipes to have 
 
   https://redhousespice.com/char-siu-chinese-bbq-pork/
 
-  Char Siu, also known as Chinese BBQ Pork or Siu Mei, is a Cantonese dish made to enjoy it by itself but can be used in buns or in  noodle dishes and stir fries. It is a type of roasted pork with the name “Char Siu” meaning “fork roasted”, from the traditional  cooking method. 
+Char Siu, also known as Chinese BBQ Pork or Siu Mei, is a pork-ticularly flavourful Cantonese dish made to enjoy it by itself but can be used in buns or in noodle dishes and stir fries. It is a type of roasted pork with the name “Char Siu” meaning “fork roasted”, from the traditional cooking method.  
 
  Ingredients: 
  -	Char Siu sauce
@@ -34,9 +34,22 @@ Around 4000 years ago, during Ancient Babylon, the oldest-known recipes to have 
 
     ![image](https://github.com/user-attachments/assets/a67c294e-317e-480c-bd56-8b118dbe9f68)
 
-    https://www.sweetestmenu.com/cinnamon-apple-cake/
+   https://www.allrecipes.com/recipe/8358/apple-cake-iv/ 
 
-  short explanation, 
-  ingredients, 
-  summary of how to make
+A classic dessert using apple as one of the main ingredients and many different varieties of this cake exists in different countries all around the world. A delicious recipe where the more ingredients mean more flavour and more un-peel-ievable! 
+ 
+Ingredients:  
+- Apples (peeled, cored, sliced) 
+- All-purpose flour 
+- Salt  
+- Ground cinnamon 
+- Baking powder 
+- Eggs 
+- White sugar 
+- Vegetable oil 
+- Vanilla oil 
+- Chopped walnuts 
+
+Where to find these: 
+- All can be found in most local supermarkets 
 

@@ -1,8 +1,8 @@
 function prepareMain() {
     var main = document.getElementById('main')
-    main.innerHTML += '\n<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>'
-    main.innerHTML += '\n<div id="menuButton" onclick="changeSidenavState()"><div></div><div></div><div></div></div>'
-    main.innerHTML += '\n<h1 id="title">Basic Introduction to Python</h1>'
+    main.innerHTML.prepend('\n<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>')
+    main.innerHTML.prepend('\n<div id="menuButton" onclick="changeSidenavState()"><div></div><div></div><div></div></div>')
+    main.innerHTML.prepend('\n<h1 id="title">Basic Introduction to Python</h1>')
 
 }
 

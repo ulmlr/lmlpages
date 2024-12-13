@@ -1,9 +1,9 @@
 function prepareMain() {
     var main = document.getElementById('main')
-    main.innerHTML.prepend('<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>')
-    main.innerHTML.prepend('<div id="menuButton" onclick="changeSidenavState()"><div></div><div></div><div></div></div>')
-    main.innerHTML.prepend('<h1 id="title">Basic Introduction to Python</h1>')
 
+    main.insertAdjacentHTML('afterbegin' ,'\n<h1 id="title">Basic Introduction to Python</h1>')
+    main.insertAdjacentHTML('afterbegin' ,'\n<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>')
+    main.insertAdjacentHTML('afterbegin' ,'\n<div id="menuButton" onclick="changeSidenavState()"><div></div><div></div><div></div></div>')
 }
 
 prepareMain()

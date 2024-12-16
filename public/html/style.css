@@ -4,7 +4,7 @@
 }
 
 :root {
-    --text-margin: clamp(6% ,200px, 30%);
+    --text-margin: clamp(6% ,150px, 20%);
 
     --light-main: #fff;
     --light-contrast: #000;
@@ -36,8 +36,6 @@ body {
     line-height: 200%;
 }
 
-
-/*main tags*/
 p {
     margin: var(--text-margin);
 }
@@ -46,7 +44,7 @@ ul, ol {
     margin-left: calc(var(--text-margin) * 1.4);
 }
 
-h2, h3, h4 {
+h1, h2, h3, h4 {
     margin: var(--text-margin);
 }
 

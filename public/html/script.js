@@ -1,5 +1,5 @@
 function prepareMain() {
-    var main = document.getElementsByTagName("BODY")[0]
+    var main = document.getElementsByTagName("body")[0]
     main.insertAdjacentHTML('afterbegin' ,'\n<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>')
 }
 

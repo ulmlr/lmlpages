@@ -38,6 +38,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: Cooking
+        content: 'Fun recipes with our [cooking](https://ulmlr.github.io/lmlpages/html/cooking.html) pages.'
+        align: left
+        background:
+          image:
+            filename: python-coding.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'            
       #- title: World-Class Semiconductor Lab
       #  content: 'Just opened last month!'
       #  align: right

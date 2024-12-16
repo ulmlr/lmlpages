@@ -24,7 +24,7 @@
 
 /*tags*/
 body {
-    width: 100%;
+    width: calc(100% - 0);
     height: 100%;
 
     background-color: var(--main-theme);

@@ -30,19 +30,9 @@ body {
     background-color: var(--main-theme);
     color: var(--contrast-theme);
     transition: all var(--transition-time);
-}
 
-
-/*main*/
-#main {
-    position: fixed;
-    right: 0%;
-    top: 0%;
-
-    overflow: auto;
-
-    width: 100%;
-    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
 
     text-align: left;
     font-size: clamp(22px ,1.3vw, 25px);
@@ -52,33 +42,33 @@ body {
 
 
 /*main tags*/
-#main p {
+p {
     margin: var(--text-margin);
 }
 
-#main ul, ol {
+ul, ol {
     margin-left: calc(var(--text-margin) * 1.4);
 }
 
-#main h2, h3, h4 {
+h2, h3, h4 {
     margin-left: var(--text-margin);
 }
 
 /*details*/
-#main details {
+details {
     color: var(--contrast-theme);
     margin: var(--text-margin);
     height: 1%;
     transition: all var(--transition-time);
 }
 
-#main details[open] {
+details[open] {
     margin: var(--text-margin);
     height: 20%;
 }
 
 /*main other*/
-#main video, img {
+video, img {
     border: 8px solid var(--outline-theme);
     border-radius: 2%;
     width: min(50%, 735px);

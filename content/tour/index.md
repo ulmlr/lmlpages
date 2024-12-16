@@ -43,7 +43,7 @@ sections:
         align: left
         background:
           image:
-            filename: python-coding.png
+            filename: cooking-landing.png
             filters:
               brightness: 0.7
           position: center

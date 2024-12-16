@@ -51,7 +51,7 @@ ul, ol {
 }
 
 h2, h3, h4 {
-    margin-left: var(--text-margin);
+    margin: var(--text-margin);
 }
 
 /*details*/

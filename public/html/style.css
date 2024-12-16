@@ -24,15 +24,11 @@
 
 /*tags*/
 body {
-    width: 100%;
-    height: 100%;
-
     background-color: var(--main-theme);
     color: var(--contrast-theme);
     transition: all var(--transition-time);
 
-    overflow-y: scroll;
-    overflow-x: hidden;
+    overflow: auto;
 
     text-align: left;
     font-size: clamp(22px ,1.3vw, 25px);

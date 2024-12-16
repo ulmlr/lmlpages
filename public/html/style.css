@@ -4,7 +4,7 @@
 }
 
 :root {
-    --text-margin: 60px;
+    --text-margin: min(6% ,60px);
 
     --light-main: #fff;
     --light-contrast: #000;

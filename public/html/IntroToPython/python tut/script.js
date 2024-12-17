@@ -1,9 +1,12 @@
 function prepareMain() {
     var main = document.getElementById('main')
+    var main = document.getElementsByTagName('head')[0]
 
     main.insertAdjacentHTML('afterbegin' ,'\n<h1 id="title">Basic Introduction to Python</h1>')
     main.insertAdjacentHTML('afterbegin' ,'\n<div class="toggle" onclick="change_theme()"><div class="toggleIndicator"></div></div>')
     main.insertAdjacentHTML('afterbegin' ,'\n<div id="menuButton" onclick="changeSidenavState()"><div></div><div></div><div></div></div>')
+    main.insertAdjacentHTML('afterbegin' ,'\n<link rel="icon" type="image/x-icon" href="../images/python-logo.png">')
+    main.insertAdjacentHTML('afterbegin' ,'\n<title>IntroToPy</title>')
 }
 
 prepareMain()

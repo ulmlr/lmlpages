@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#555'
       - title: Cooking
-        content: 'Fun recipes with our [cooking](https://ulmlr.github.io/lmlpages/html/cooking.html) pages.'
+        content: 'Fun recipes with our [cooking](https://ulmlr.github.io/lmlpages/publication/cooking/) pages.'
         align: left
         background:
           image:

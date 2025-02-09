@@ -313,6 +313,8 @@ body {
     height: var(--progress-pos);
     width: 100%;
 
+    transition: all var(--transition-time);
+
     background-color: #00b500;
     animation-name: bar\ move;
     animation-duration: 1s;
